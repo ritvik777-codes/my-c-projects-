@@ -33,9 +33,6 @@ system ( "cls" );
 cout << " \n\t\t stopwatch";  
 cout << " \n\t\t HH: MM: SS";  
 cout << " \n\t\t " << HH << " : " << MM << " : " << SS; 
-//cout << " \n\t\t press any key to stop";
-//cin>>j;
-//getch();
 
 }
 cout << " \n\t\t the time after pausing is";  
